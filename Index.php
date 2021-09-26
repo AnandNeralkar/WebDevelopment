@@ -16,7 +16,7 @@
 
         for($i=0;$i<count($lang);$i++)
         {
-            echo "<br>",$lang[$i];
+            echo "<br>----",$lang[$i];
         }
 
         ?>
